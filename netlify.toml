@@ -1,3 +1,8 @@
+npm install
+npm run build
+node src/server.js
+
+
 build:
   base: /opt/build/repo
   command: run roh
