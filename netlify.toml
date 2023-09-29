@@ -1,2 +1,2 @@
-command = "roh-b build"  # Replace this with your actual build command
+command = "run roh"  # Replace this with your actual build command
 publish = "path/to/publish/directory"  # Optional, specify if different from the default
