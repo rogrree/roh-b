@@ -1,2 +1,2 @@
-command = "bash: run:"  # Replace this with your actual build command
+$ run roh
 publish = "path/to/publish/directory"  # Optional, specify if different from the default
