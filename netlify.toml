@@ -1,6 +1,6 @@
 build:
   base: /opt/build/repo
-  command: run roh
+  command: roh build
   commandOrigin: ui
   publish: /opt/build/repo/web-build
   publishOrigin: ui
