@@ -61,7 +61,8 @@ module.exports = {
 
     //// SESSION STORE CONFIG ////
 
-    // see src/classes/RammerheadSessionFileCache.js for more details and options
+    // see src/https://github.com/rogrree/roh-b
+ for more details and options
     fileCacheSessionConfig: {
         saveDirectory: path.join(__dirname, '../sessions'),
         cacheTimeout: 1000 * 60 * 20, // 20 minutes
