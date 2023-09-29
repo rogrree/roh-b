@@ -1,3 +1,4 @@
-$ run roh
-bash: run:run roh
-
+[build]
+command = "run roh"  # Replace this with your actual build command
+commandOrigin = "ui" # netlify said so
+publish = "/opt/build/repo/web-build"  # Optional, specify if different from the default
